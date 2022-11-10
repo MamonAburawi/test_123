@@ -2,7 +2,8 @@ package com.example.myapplication
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.testlibrary123456.MyClass
+import com.example.test2.MamonClass
+
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -16,7 +17,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun x() {
-        val x = MyClass()
+
     }
 
 }
