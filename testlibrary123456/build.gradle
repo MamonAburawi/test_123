@@ -1,6 +1,9 @@
 plugins {
     id 'java-library'
     id 'org.jetbrains.kotlin.jvm'
+
+    id 'maven-publish' // add this line
+
 }
 
 java {
@@ -10,5 +13,5 @@ java {
 
 dependencies {
 
- 
+
 }
