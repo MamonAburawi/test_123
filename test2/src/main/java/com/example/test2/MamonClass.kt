@@ -4,5 +4,6 @@ class MamonClass {
 
     val x = 10
 
+    val s = 2000
 
 }
